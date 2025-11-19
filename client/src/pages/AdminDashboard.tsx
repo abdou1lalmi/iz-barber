@@ -104,7 +104,7 @@ export default function AdminDashboard() {
       <div className="max-w-6xl mx-auto">
         {/* Header */}
         <div className="mb-8">
-          <h1 className="text-4xl font-bold text-slate-900 mb-2">Admin Dashboard</h1>
+          <h1 className="text-4xl font-bold text-slate-900 mb-2">💈 IZ BARBER Admin Dashboard</h1>
           <p className="text-lg text-slate-600">Manage bookings and view analytics</p>
         </div>
 

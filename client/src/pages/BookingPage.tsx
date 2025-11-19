@@ -72,8 +72,8 @@ export default function BookingPage() {
     <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 py-8 px-4">
       <div className="max-w-2xl mx-auto">
         <div className="text-center mb-8">
-          <h1 className="text-4xl font-bold text-slate-900 mb-2">Book Your Haircut</h1>
-          <p className="text-lg text-slate-600">Reserve your appointment in just a few clicks</p>
+          <h1 className="text-4xl font-bold text-slate-900 mb-2">💈 Book Your Perfect Cut 💈</h1>
+          <p className="text-lg text-slate-600">Reserve your appointment at IZ BARBER in just a few clicks</p>
         </div>
 
         <Card className="shadow-lg">

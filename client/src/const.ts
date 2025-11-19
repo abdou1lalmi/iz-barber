@@ -1,8 +1,20 @@
 export { COOKIE_NAME, ONE_YEAR_MS } from "@shared/const";
 
-export const APP_TITLE = import.meta.env.VITE_APP_TITLE || "App";
+export const BARBER_NAME = "IZ BARBER";
+export const BARBER_TAGLINE = "Premium Cuts, Expert Hands";
 
-export const APP_LOGO = "https://placehold.co/128x128/E1E7EF/1F2937?text=App";
+export const APP_TITLE = import.meta.env.VITE_APP_TITLE || "💈 IZ BARBER 💈";
+
+export const SITE_SUBTITLE = "Book Your Perfect Cut Today";
+
+// Professional barber logo - using scissors emoji with styling
+export const APP_LOGO = "💈";
+
+// Barber shop details
+export const BARBER_LOCATION = "123 Main Street, Your City";
+export const BARBER_PHONE = "(555) 123-4567";
+export const BARBER_EMAIL = "hello@izbarber.com";
+export const BARBER_HOURS = "Mon-Fri: 9AM-6PM | Sat: 9AM-5PM | Sun: Closed";
 
 // Generate login URL at runtime so redirect URI reflects the current origin.
 export const getLoginUrl = () => {
